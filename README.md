@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justinrsweeney
 - 👀 I’m interested in search, big data, and java development
-- 🌱 I’m currently learning AWS Architecture and React
+- 🌱 I’m currently learning Go and React
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/justinrsweeney/
 
